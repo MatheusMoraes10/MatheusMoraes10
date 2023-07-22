@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 Hoje estou me preparando para primeira oportunidade em desenvolvimento
-- 🌱 Estudando Full Stack Java
+<!-- - 🔭 Hoje estou me preparando para primeira oportunidade em desenvolvimento
+- 🌱 Estudando Full Stack Java -->
 - 📫 Contate-me no email: contato_matheusmoraes@hotmail.com
 - 😄 Pronouns: ele/dele
 
